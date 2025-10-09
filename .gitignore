@@ -10,3 +10,4 @@ geocoding
 functions/*
 dist/
 _build
+.idea
